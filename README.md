@@ -3,7 +3,6 @@
 ---
 - Department of Computer Engineering, Hansung University (2020.03 ~)
 - Email: 601135@naver.com
-
 ---
 <!--내용 부분-->
 <h3 align="start">💻 Tech Stack 💻</h3>
